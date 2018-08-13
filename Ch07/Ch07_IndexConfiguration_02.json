@@ -1,0 +1,53 @@
+{
+    "indexingMode": "lazy",
+    "automatic": true,
+    "includedPaths": [
+        {
+            "path": "/*",
+            "indexes": [
+                {
+                    "kind": "Range",
+                    "dataType": "Number",
+                    "precision": -1
+                },
+                {
+                    "kind": "Range",
+                    "dataType": "String",
+                    "precision": -1
+                },
+                {
+                    "kind": "Spatial",
+                    "dataType": "Point"
+                },
+                {
+                    "kind": "Spatial",
+                    "dataType": "LineString"
+                },
+                {
+                    "kind": "Spatial",
+                    "dataType": "Polygon"
+                }
+            ]
+        }
+    ],
+    "excludedPaths": [
+        {
+            "path": "/SiteId/?"
+        },
+        {
+            "path": "/DeviceId/?"
+        },
+        {
+            "path": "/Temperature/?"
+        },
+        {
+            "path": "/TestStatus/?"
+        },
+        {
+            "path": "/TimeStamp/?"
+        },
+        {
+            "path": "/deviceidday/?"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+db.sensor.find("DeviceId":88,"deviceidday":"882/18/2018"});

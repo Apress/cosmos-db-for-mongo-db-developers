@@ -1,0 +1,1 @@
+db.book.find({"chapters.tags": { $in: [ "CosmosDB" ] }},{"chapters.tags":1, "_id": 0})

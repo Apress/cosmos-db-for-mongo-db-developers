@@ -1,0 +1,1 @@
+db.eventmsgsd.aggregate( [ {$match:{DeviceId:1001}},  {      $project: {         Temperature: 1,         "DeviceId": 1,         "SensorId" : 1,         "SiteId": {            $cond: {               if: { $eq: [ 1, "$SiteId" ] },               then: "$$REMOVE",               else: "$SiteId"            }         }      }   }] );

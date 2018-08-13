@@ -1,0 +1,1 @@
+db.coll.insert({ "_id" : "469", "SiteId" : 0, "DeviceId" : 0, "SensorId" : 0, "Temperature" : "20.9", "TestStatus" : "Pass", "TimeStamp" : { "date" : 1520660314835 }, "deviceidday" : "03/10/2018" });

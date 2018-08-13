@@ -1,0 +1,1 @@
+db.runCommand({aggregate: "book", pipeline:[{$group: { _id: "$DeviceId", count: {$sum : 1 }} }] })

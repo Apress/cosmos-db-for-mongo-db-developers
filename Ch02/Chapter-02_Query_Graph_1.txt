@@ -1,0 +1,1 @@
+g.V().has('label','John').addE('knows').property('relation','brother').to(g.V('Chris'))

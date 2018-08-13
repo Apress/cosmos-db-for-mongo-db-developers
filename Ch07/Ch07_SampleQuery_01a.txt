@@ -1,0 +1,1 @@
+db.eventmsgss.find({SensorId: 1001001}).limit(1);

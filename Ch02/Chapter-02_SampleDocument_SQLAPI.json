@@ -1,0 +1,16 @@
+{
+    "id": "test",
+    "isbn": "0312577XXX",
+    "title": "Cosmos DB",
+    "price": "200.22",
+    "author": "David C",
+    "chapters": {
+        "chapterno": "1",
+        "chaptertitle": "Overview",
+        "tags": [
+            "CosmosDB",
+            "Azure Cosmos DB",
+            "DocumentDB"
+        ]
+    }
+}

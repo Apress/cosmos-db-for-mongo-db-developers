@@ -1,0 +1,1 @@
+db.book.aggregate({$project: { count: {$size:"$chapters.tags" }}})

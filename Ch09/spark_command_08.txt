@@ -1,0 +1,1 @@
+val agg = rdd.withPipeline(Seq(Document.parse("{ $group: { _id : '$SensorId', total:{$sum:1} } } ")))

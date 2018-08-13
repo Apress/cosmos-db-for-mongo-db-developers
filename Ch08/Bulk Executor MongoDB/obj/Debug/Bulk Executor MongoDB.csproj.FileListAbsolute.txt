@@ -1,0 +1,23 @@
+C:\Users\mansha\Source\Repos\Bulk Executor MongoDB\Bulk Executor MongoDB\bin\Debug\Bulk Executor MongoDB.exe.config
+C:\Users\mansha\Source\Repos\Bulk Executor MongoDB\Bulk Executor MongoDB\bin\Debug\Bulk Executor MongoDB.exe
+C:\Users\mansha\Source\Repos\Bulk Executor MongoDB\Bulk Executor MongoDB\bin\Debug\Bulk Executor MongoDB.pdb
+C:\Users\mansha\Source\Repos\Bulk Executor MongoDB\Bulk Executor MongoDB\bin\Debug\DnsClient.dll
+C:\Users\mansha\Source\Repos\Bulk Executor MongoDB\Bulk Executor MongoDB\bin\Debug\Microsoft.Azure.CosmosDB.BulkImport.dll
+C:\Users\mansha\Source\Repos\Bulk Executor MongoDB\Bulk Executor MongoDB\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\mansha\Source\Repos\Bulk Executor MongoDB\Bulk Executor MongoDB\bin\Debug\Microsoft.Azure.Documents.Interop.Common.dll
+C:\Users\mansha\Source\Repos\Bulk Executor MongoDB\Bulk Executor MongoDB\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\mansha\Source\Repos\Bulk Executor MongoDB\Bulk Executor MongoDB\bin\Debug\MongoDB.Bson.dll
+C:\Users\mansha\Source\Repos\Bulk Executor MongoDB\Bulk Executor MongoDB\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\mansha\Source\Repos\Bulk Executor MongoDB\Bulk Executor MongoDB\bin\Debug\MongoDB.Driver.dll
+C:\Users\mansha\Source\Repos\Bulk Executor MongoDB\Bulk Executor MongoDB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mansha\Source\Repos\Bulk Executor MongoDB\Bulk Executor MongoDB\bin\Debug\System.Buffers.dll
+C:\Users\mansha\Source\Repos\Bulk Executor MongoDB\Bulk Executor MongoDB\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mansha\Source\Repos\Bulk Executor MongoDB\Bulk Executor MongoDB\bin\Debug\DnsClient.xml
+C:\Users\mansha\Source\Repos\Bulk Executor MongoDB\Bulk Executor MongoDB\bin\Debug\MongoDB.Driver.xml
+C:\Users\mansha\Source\Repos\Bulk Executor MongoDB\Bulk Executor MongoDB\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\mansha\Source\Repos\Bulk Executor MongoDB\Bulk Executor MongoDB\obj\Debug\Bulk Executor MongoDB.exe
+C:\Users\mansha\Source\Repos\Bulk Executor MongoDB\Bulk Executor MongoDB\obj\Debug\Bulk Executor MongoDB.pdb
+C:\Users\mansha\Source\Repos\Bulk Executor MongoDB\Bulk Executor MongoDB\obj\Debug\Bulk Executor MongoDB.csprojResolveAssemblyReference.cache
+C:\Users\mansha\Downloads\CosmosDB Book - Review-2\Source Code\Chapter_08\Bulk Executor MongoDB\bin\Debug\Bulk Executor MongoDB.exe.config
+C:\Users\mansha\Downloads\CosmosDB Book - Review-2\Source Code\Chapter_08\Bulk Executor MongoDB\obj\Debug\Bulk Executor MongoDB.exe
+C:\Users\mansha\Downloads\CosmosDB Book - Review-2\Source Code\Chapter_08\Bulk Executor MongoDB\obj\Debug\Bulk Executor MongoDB.pdb

@@ -1,0 +1,1 @@
+{ "_id" : ObjectId("5acafc5e2a90b81dc44b3963"), "SiteId" : 0, "DeviceId" : 0, "SensorId" : 0, "Temperature" : "20.9", "TestStatus" : "Pass", "TimeStamp" : ISODate("2018-03-10T05:38:34.835Z"), "deviceidday" : "03/10/2018" }

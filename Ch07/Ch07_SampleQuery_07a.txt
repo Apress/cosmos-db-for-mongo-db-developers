@@ -1,0 +1,1 @@
+db.customer.find({}).limit(1);

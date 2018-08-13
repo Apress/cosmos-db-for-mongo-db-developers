@@ -1,0 +1,9 @@
+db.book.aggregate( [
+  { $match: { "$Temperature": { gte: 0 } } },
+  {
+    $group: {
+      "_id": "$DeviceId",
+      "avgTemperature": { "$avg": "$Temperature" }
+    }
+  }
+] )

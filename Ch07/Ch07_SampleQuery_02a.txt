@@ -1,0 +1,1 @@
+db.eventmsgss.insertOne({ "_id" : ObjectId(), "SiteId" : 1, "DeviceId" : 1001, "SensorId" : 1001999, "Temperature" : "20.9", "TestStatus" : "Pass", "TimeStamp" : ISODate("2018-05-21T16:23:32.256Z"), "deviceidday" : "15/21/2018" })

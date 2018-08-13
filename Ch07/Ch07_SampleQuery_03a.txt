@@ -1,0 +1,18 @@
+db.customer.insertOne( {
+  "CustomerKey": 1122,
+  "Title": "Mr.",
+  "FirstName": "Brian",
+  "LastName": "Moore",
+  "MaritalStatus": "Single",
+  "Gender": "Male",
+  "EmailAddress": "xxx@xxx.com",
+  "YearlyIncome": 100000,
+  "TotalChildren": 2,
+  "Education": "Graduate",
+  "NumberCarsOwned": 4,
+  "AddressLine1": "House no. 4455, First Floor,",
+  "AddressLine2": "Sector Zeta A, Delwara, US",
+  "Phone": "xxx-xxx-xxx",
+  "CustomerType": "New",
+  "CompanyName": "Tingo"
+});

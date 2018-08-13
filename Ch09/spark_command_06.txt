@@ -1,0 +1,1 @@
+val agg = rdd.withPipeline(Seq(Document.parse("{ $match: { DeviceId : { $eq : 1004 } } }")))

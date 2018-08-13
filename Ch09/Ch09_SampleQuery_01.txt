@@ -1,0 +1,1 @@
+db.book.aggregate([{$match:{TestStatus: "Pass", DeviceId:6} },{$group:{_id: "$SensorId", total: {$sum: 1}}},{ $sort:{SensorId: -1}}]);

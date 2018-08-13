@@ -1,0 +1,17 @@
+db.customer.insertOne( {
+      "ck": 1122,
+      "ttl": "Mr.",
+      "fn": "Brian",
+      "ln": "Moore",
+      "ms": "Single",
+      "gn": "Male",
+      "ea": "xxx@xxx.com",
+      "edu": "Graduate",
+      "nco": 4,
+      "add1": "House no. 4455, First Floor,",
+      "add2": "Sector Zeta A, Delwara, US",
+      "ph": "xxx-xxx-xxx",
+      "ct": "New",
+      "cn": "Tingo"
+   
+    });

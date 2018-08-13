@@ -1,0 +1,16 @@
+C:\Users\mansha\Downloads\CosmosDB Book - Review-2\Source Code\Chapter_03\Ch_03_MongoSample\Ch_03_MongoSample\bin\Debug\Ch_03_MongoSample.exe.config
+C:\Users\mansha\Downloads\CosmosDB Book - Review-2\Source Code\Chapter_03\Ch_03_MongoSample\Ch_03_MongoSample\obj\Debug\Ch_03_MongoSample.csprojResolveAssemblyReference.cache
+C:\Users\mansha\Downloads\CosmosDB Book - Review-2\Source Code\Chapter_03\Ch_03_MongoSample\Ch_03_MongoSample\bin\Debug\Ch_03_MongoSample.exe
+C:\Users\mansha\Downloads\CosmosDB Book - Review-2\Source Code\Chapter_03\Ch_03_MongoSample\Ch_03_MongoSample\bin\Debug\Ch_03_MongoSample.pdb
+C:\Users\mansha\Downloads\CosmosDB Book - Review-2\Source Code\Chapter_03\Ch_03_MongoSample\Ch_03_MongoSample\bin\Debug\DnsClient.dll
+C:\Users\mansha\Downloads\CosmosDB Book - Review-2\Source Code\Chapter_03\Ch_03_MongoSample\Ch_03_MongoSample\bin\Debug\MongoDB.Bson.dll
+C:\Users\mansha\Downloads\CosmosDB Book - Review-2\Source Code\Chapter_03\Ch_03_MongoSample\Ch_03_MongoSample\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\mansha\Downloads\CosmosDB Book - Review-2\Source Code\Chapter_03\Ch_03_MongoSample\Ch_03_MongoSample\bin\Debug\MongoDB.Driver.dll
+C:\Users\mansha\Downloads\CosmosDB Book - Review-2\Source Code\Chapter_03\Ch_03_MongoSample\Ch_03_MongoSample\bin\Debug\System.Buffers.dll
+C:\Users\mansha\Downloads\CosmosDB Book - Review-2\Source Code\Chapter_03\Ch_03_MongoSample\Ch_03_MongoSample\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mansha\Downloads\CosmosDB Book - Review-2\Source Code\Chapter_03\Ch_03_MongoSample\Ch_03_MongoSample\bin\Debug\DnsClient.xml
+C:\Users\mansha\Downloads\CosmosDB Book - Review-2\Source Code\Chapter_03\Ch_03_MongoSample\Ch_03_MongoSample\bin\Debug\MongoDB.Bson.xml
+C:\Users\mansha\Downloads\CosmosDB Book - Review-2\Source Code\Chapter_03\Ch_03_MongoSample\Ch_03_MongoSample\bin\Debug\MongoDB.Driver.xml
+C:\Users\mansha\Downloads\CosmosDB Book - Review-2\Source Code\Chapter_03\Ch_03_MongoSample\Ch_03_MongoSample\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\mansha\Downloads\CosmosDB Book - Review-2\Source Code\Chapter_03\Ch_03_MongoSample\Ch_03_MongoSample\obj\Debug\Ch_03_MongoSample.exe
+C:\Users\mansha\Downloads\CosmosDB Book - Review-2\Source Code\Chapter_03\Ch_03_MongoSample\Ch_03_MongoSample\obj\Debug\Ch_03_MongoSample.pdb

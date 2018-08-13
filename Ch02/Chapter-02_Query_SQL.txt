@@ -1,0 +1,1 @@
+SELECT * FROM ROOT c where c.id="test"

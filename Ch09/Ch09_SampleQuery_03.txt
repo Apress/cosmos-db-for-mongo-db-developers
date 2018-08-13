@@ -1,0 +1,1 @@
+> db.runCommand({ count: "book",query: {"DeviceId": {$gte:10} }, skip: 10} )

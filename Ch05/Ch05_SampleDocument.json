@@ -1,0 +1,9 @@
+{
+		"_id" : ObjectId("5ab14e342a90b844e07fc060"),
+		"SiteId" : 0,
+		"DeviceId" : 998,
+		"SensorId" : 0,
+		"Temperature" : "20.9",
+		"TestStatus" : "Pass",
+		"TimeStamp" : 1518977329628
+}
